@@ -1,3 +1,6 @@
+package dao;
+
+import dto.ProdutosDTO;
 import java.sql.PreparedStatement;
 import java.sql.Connection;
 import javax.swing.JOptionPane;
